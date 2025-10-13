@@ -82,8 +82,9 @@ bash Miniconda3-latest-Linux-x86_64.sh
 **5. Прописать команду:**
 
 ```bash
-export PATH="/miniconda3/bin":$PATH
+export PATH="/home/<имя пользователя>/miniconda3/bin":$PATH
 ```
+где <имя пользователя> - имя, которое вводилось при настройке виртуалки
 
 Проверить, что система знает команду "conda"
 
