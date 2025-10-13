@@ -229,7 +229,7 @@ cat ~/.ssh/id_ed25519.pub
 
 ![](./images/image.png)
 
-**5. Устанавливаем расширения для работы с python в VS Code**
+**5. Устанавливаем расширения для работы с python в VS Code (аналогично п.3)**
 
     - Python (автоматически также скачаются Pylance и Python Debugger)
     - flake8
