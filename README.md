@@ -9,7 +9,7 @@
 **2. Запустить команду:**
 
 ```bash
-wsl --install Ubuntu
+wsl --install -d Ubuntu
 ```
 
 **3. Перезагрузить компьютер.**
